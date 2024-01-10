@@ -1,0 +1,14 @@
+F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\bin\Debug\net6.0\ConsoleApptable5.exe
+F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\bin\Debug\net6.0\ConsoleApptable5.deps.json
+F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\bin\Debug\net6.0\ConsoleApptable5.runtimeconfig.json
+F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\bin\Debug\net6.0\ConsoleApptable5.dll
+F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\bin\Debug\net6.0\ConsoleApptable5.pdb
+F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\obj\Debug\net6.0\ConsoleApptable5.GeneratedMSBuildEditorConfig.editorconfig
+F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\obj\Debug\net6.0\ConsoleApptable5.AssemblyInfoInputs.cache
+F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\obj\Debug\net6.0\ConsoleApptable5.AssemblyInfo.cs
+F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\obj\Debug\net6.0\ConsoleApptable5.csproj.CoreCompileInputs.cache
+F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\obj\Debug\net6.0\ConsoleApptable5.dll
+F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\obj\Debug\net6.0\refint\ConsoleApptable5.dll
+F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\obj\Debug\net6.0\ConsoleApptable5.pdb
+F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\obj\Debug\net6.0\ConsoleApptable5.genruntimeconfig.cache
+F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\obj\Debug\net6.0\ref\ConsoleApptable5.dll
