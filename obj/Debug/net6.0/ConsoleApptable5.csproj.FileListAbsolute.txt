@@ -12,3 +12,4 @@ F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\obj\Debug\net6.0
 F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\obj\Debug\net6.0\ConsoleApptable5.pdb
 F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\obj\Debug\net6.0\ConsoleApptable5.genruntimeconfig.cache
 F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\obj\Debug\net6.0\ref\ConsoleApptable5.dll
+F:\phase3\daily examples\day4\ConsoleApptable5\ConsoleApptable5\obj\Debug\net6.0\ConsoleApptable5.sourcelink.json
